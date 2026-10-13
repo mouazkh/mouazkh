@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=230&section=header&text=Mouaz%20Bashar%20Alkhatib&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%20%E2%80%A2%20Programmer%20%E2%80%A2%20Anime%20Enjoyer&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
-<a href="https://github.com/mouazkh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=BB9AF7&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Mouaz+%F0%9F%91%8B;Flutter+%7C+Web+%7C+Game+Developer+%F0%9F%93%B1%F0%9F%8E%AE;Front-End+Team+Leader+%F0%9F%91%91;Believe+it!+I+never+go+back+on+my+code+%F0%9F%8D%A5;git+commit+-m+%22plus+ultra%22+%F0%9F%92%A5;while(alive)+%7B+code();+watchAnime();+%7D" alt="Typing SVG"/></a>
+<a href="https://github.com/mouazkh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=BB9AF7&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Mouaz+%F0%9F%91%8B;Flutter+%7C+Web+%7C+Game+Developer+%F0%9F%93%B1%F0%9F%8E%AE;Front-End+Team+Leader+%F0%9F%91%91;ff15%3F+Never.+I+debug+till+the+Nexus+falls+%F0%9F%8E%AE;Believe+it!+I+never+go+back+on+my+code+%F0%9F%8D%A5;git+commit+-m+%22plus+ultra%22+%F0%9F%92%A5;while(alive)+%7B+code();+watchAnime();+%7D" alt="Typing SVG"/></a>
 
 <p>
   <img src="https://api.visitorbadge.io/api/visitors?path=mouazkh&label=VISITORS&countColor=%23bb9af7&style=for-the-badge&labelColor=%231a1b27" alt="visitor counter" title="Visitors who passed through Wall Maria 🧱"/>
@@ -108,6 +108,35 @@ I'm a self-taught developer who builds mobile apps, websites and games, and play
 - 📜 Python for Data Science, AI & Development (Coursera)
 - 📜 Flutter Mobile App Development (UNRWA Damascus Intermediate Institute)
 - 📜 Android App Malware Analysis (Udemy)
+
+## 🎮 Ranked mode: League of Legends
+
+<img align="right" width="300" src="https://media.giphy.com/media/uDNF9yB0Q2Kk0/giphy.gif" alt="Yasuo mains be like" title="0/10 Yasuo, still says the team is the problem"/>
+
+```diff
+[All] Mouaz: gg ez, my code compiled first try
+[All] Bug: report Mouaz, he's hacking
+[Team] Mouaz: jungle diff. Backend never ganked my frontend
+[Team] Mouaz: who pushed to main without tests? 🤡
+[Team] QA: ff15
+[Team] Mouaz: no ff, I've seen worse codebases come back
++ Mouaz has slain the Production Bug!  (+300 gold)
+- Your Legacy Code has been destroyed.
++ VICTORY 🏆
+```
+
+| In League 🏟️ | In my code 💻 |
+|---|---|
+| 🍄 Teemo shrooms | Bugs hidden in someone else's code |
+| 🌪️ 0/10 Yasuo | Junior dev with sudo access |
+| 🧌 "Report jungle" | "Must be the backend" |
+| ⏳ Waiting for 15 to surrender | Waiting for CI to finish |
+| 🛡️ Building armor | Writing tests |
+| 🔄 "I'm not tilted" | 3 a.m., same bug, fifth coffee |
+
+> ⚠️ Honor level 0 against bugs. Honor level 5 with teammates.
+
+<br clear="right"/>
 
 ## 📊 Chakra levels (stats)
 
