@@ -1,6 +1,6 @@
-﻿<!--
+<!--
   👀 Reading the source? Nice, a fellow curious dev.
-  Secret #1 found. There are 3 more hidden on this page. Good luck, shinobi. 🍥
+  Secret #1 found. There are 4 more hidden on this page. Good luck, shinobi. 🍥
 -->
 
 <div align="center">
@@ -10,6 +10,8 @@
 <a href="https://github.com/mouazkh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=BB9AF7&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Mouaz+%F0%9F%91%8B;Android+%26+Flutter+Developer+%F0%9F%93%B1;Believe+it!+I+never+go+back+on+my+code+%F0%9F%8D%A5;git+commit+-m+%22plus+ultra%22+%F0%9F%92%A5;while(alive)+%7B+code();+watchAnime();+%7D" alt="Typing SVG"/></a>
 
 <p>
+  <img src="https://count.getloli.com/get/@mouazkh?theme=asoul" alt="visitor counter" title="Visitors who passed through Wall Maria"/>
+  <br/>
   <a href="https://github.com/mouazkh?tab=followers"><img src="https://img.shields.io/github/followers/mouazkh?label=FOLLOWERS&style=for-the-badge&color=7aa2f7&labelColor=1a1b27" alt="followers"/></a>
   <img src="https://img.shields.io/badge/POWER%20LEVEL-OVER%209000-ff4f8b?style=for-the-badge&labelColor=1a1b27" alt="power level" title="It's over 9000!!! (secret #2: hover found)"/>
 </p>
@@ -20,26 +22,35 @@
 
 ---
 
-## 🍥 `whoami`
+## 🍥 About me
 
-<img align="right" width="340" src="https://media.giphy.com/media/Vur3LPcCBhYze/giphy.gif" alt="anime coding"/>
+<img align="right" width="340" src="https://media.giphy.com/media/neyNdYtCdcfUdWCS9L/giphy.gif" alt="Eren looking at the sea" title="Beyond the walls there's the sea... and beyond the sea, production. 🌊"/>
 
 ```kotlin
-object Mouaz {
-    val name     = "Mouaz Bashar Alkhatib"
-    val role     = "Mobile & Software Developer"
-    val code     = listOf("Java", "Kotlin", "Dart", "JavaScript", "Python")
-    val building = listOf("Android apps", "Flutter apps", "Web stuff")
-    val learning = listOf("Clean Architecture", "CI/CD", "Testing")
-    val anime    = listOf("Naruto", "JJK", "Bleach", "One Piece")
-    val motto    = "I'm the best in the west 🤠"
+object Mouaz : Developer(), ScoutRegiment {
+    val role      = "Mobile & Full-Stack Developer"
+    val mobile    = listOf("Flutter/Dart", "Android (Java)")
+    val backend   = listOf("REST APIs", "Python/Django", "Docker")
+    val web       = listOf("HTML", "CSS", "JavaScript")
+    val databases = listOf("SQLite")
+    val devops    = listOf("Git", "GitHub Actions", "CI/CD")
+    val favorite  = "Eren Yeager ⚔️"
+    val motto     = "Keep moving forward until every bug is gone."
 }
 ```
 
-- ⚡ Turning coffee and anime OSTs into working apps
-- 📱 Android in **Java/Kotlin**, cross-platform in **Flutter**
-- 🎯 Goal: ship apps that actually help people
-- 💬 Ask me about Android, Flutter, SQLite or which anime to watch next
+**🛠️ What I've built**
+- 🦷 **Healthcare:** an orthodontic clinic app in Flutter with separate doctor and patient sides, talking to a Laravel REST API
+- 🩹 **First aid:** [FirstAid-Hero](https://github.com/mouazkh/FirstAid-Hero), an Android app with emergency guides, contacts, case tracking and an offline SQLite database
+- 🗺️ **Travel:** a tour-guide mobile app with booking and payment flows
+- 💸 **Fintech:** an event-driven finance API with a Flutter frontend, run with Docker Compose
+- 🖥️ **Tools:** a Python/Django management server with dashboards, exams and reports
+- 📚 **Web:** a [digital library platform](https://github.com/mouazkh/IWB202), a [full-stack prototype](https://github.com/mouazkh/Proto) and [portfolio sites](https://github.com/mouazkh/Protfolioi)
+
+**🎯 Right now**
+- 🌱 Learning clean architecture, testing and CI/CD pipelines
+- 🔭 Shipping mobile apps people actually use
+- 💬 Ask me about Flutter, Android, REST APIs or Attack on Titan theories
 
 <br clear="right"/>
 
@@ -102,11 +113,42 @@ object Mouaz {
 > cheat code accepted. +30 lives. +1 follower? 😏
 ```
 
-**Final secret:** the typing banner at the top hides an infinite loop. Did you read all the lines? 🍜
+**Secret #4:** the typing banner at the top hides an infinite loop. Did you read all the lines? 🍜
 
 </div>
 </details>
 </details>
+</details>
+
+
+<details>
+<summary><b>🧱 There is something behind the wall...</b></summary>
+<br/>
+
+<div align="center">
+
+### ⚔️ Secret #5: you went beyond the walls
+
+<img src="https://media.giphy.com/media/9SvQFZ5xoGHza/giphy.gif" width="320" alt="Colossal Titan"/>
+
+```bash
+$ git push --force origin main
+# Eren: "If you don't fight, you can't win." ⚔️
+# Levi: "...You just rewrote the whole history."
+```
+
+| Attack on Titan | Programming |
+|---|---|
+| 🧱 The Walls | `try { } catch { }` |
+| 🦖 Colossal Titan | A 3,000-line legacy file |
+| 🪝 ODM gear | Keyboard shortcuts |
+| 🌊 Reaching the sea | Zero bugs in production |
+| 🔁 Paths and time loops | Recursion with no base case |
+| 🗺️ The Rumbling | `rm -rf node_modules` |
+
+*Shinzou wo sasageyo!* 🫡 Dedicate your heart... to clean code.
+
+</div>
 </details>
 
 ---
