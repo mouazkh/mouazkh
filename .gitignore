@@ -1,0 +1,9 @@
+dist/
+graphify-out/
+.env*
+*.pem
+*.p12
+*.jks
+*.keystore
+key.properties
+local.properties
