@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=230&section=header&text=Mouaz%20Bashar%20Alkhatib&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%20%E2%80%A2%20Programmer%20%E2%80%A2%20Anime%20Enjoyer&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
-<a href="https://github.com/mouazkh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=BB9AF7&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Mouaz+%F0%9F%91%8B;Android+%26+Flutter+Developer+%F0%9F%93%B1;Believe+it!+I+never+go+back+on+my+code+%F0%9F%8D%A5;git+commit+-m+%22plus+ultra%22+%F0%9F%92%A5;while(alive)+%7B+code();+watchAnime();+%7D" alt="Typing SVG"/></a>
+<a href="https://github.com/mouazkh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=BB9AF7&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Mouaz+%F0%9F%91%8B;Flutter+%7C+Web+%7C+Game+Developer+%F0%9F%93%B1%F0%9F%8E%AE;Front-End+Team+Leader+%F0%9F%91%91;Believe+it!+I+never+go+back+on+my+code+%F0%9F%8D%A5;git+commit+-m+%22plus+ultra%22+%F0%9F%92%A5;while(alive)+%7B+code();+watchAnime();+%7D" alt="Typing SVG"/></a>
 
 <p>
   <img src="https://api.visitorbadge.io/api/visitors?path=mouazkh&label=VISITORS&countColor=%23bb9af7&style=for-the-badge&labelColor=%231a1b27" alt="visitor counter" title="Visitors who passed through Wall Maria 🧱"/>
@@ -23,51 +23,91 @@
 
 ## 🍥 About me
 
-<img align="right" width="340" src="https://media.giphy.com/media/neyNdYtCdcfUdWCS9L/giphy.gif" alt="Eren looking at the sea" title="Beyond the walls there's the sea... and beyond the sea, production. 🌊"/>
+<img align="right" width="320" src="https://media.giphy.com/media/neyNdYtCdcfUdWCS9L/giphy.gif" alt="Eren looking at the sea" title="Beyond the walls there's the sea... and beyond the sea, production. 🌊"/>
 
 ```kotlin
 object Mouaz : Developer(), ScoutRegiment {
-    val role      = "Mobile & Full-Stack Developer"
-    val mobile    = listOf("Flutter/Dart", "Android (Java)")
-    val backend   = listOf("REST APIs", "Python/Django", "Docker")
-    val web       = listOf("HTML", "CSS", "JavaScript")
-    val databases = listOf("SQLite")
-    val devops    = listOf("Git", "GitHub Actions", "CI/CD")
+    val role      = listOf("Programmer", "Mobile Dev", "Web Dev", "Game Dev")
+    val base      = "Damascus, Syria 🇸🇾"
+    val mobile    = listOf("Flutter (advanced)", "Android", "React Native")
+    val web       = listOf("React", "Next.js", "Vite", "Vue", "Node.js")
+    val ai        = listOf("Python", "OpenCV", "DeepFace", "NumPy", "Pandas")
+    val games     = listOf("Unity (C#)", "Unreal Engine 5 (C++, Blueprints)")
+    val security  = listOf("Android malware analysis", "APKTool")
+    val automate  = listOf("n8n chatbots", "email workflows")
+    val studying  = listOf("BSc Management Information Systems", "IT Engineering")
     val favorite  = "Eren Yeager ⚔️"
-    val motto     = "Keep moving forward until every bug is gone."
 }
 ```
 
-**🛠️ What I've built**
-- 🦷 **Healthcare:** an orthodontic clinic app in Flutter with separate doctor and patient sides, talking to a Laravel REST API
-- 🩹 **First aid:** [FirstAid-Hero](https://github.com/mouazkh/FirstAid-Hero), an Android app with emergency guides, contacts, case tracking and an offline SQLite database
-- 🗺️ **Travel:** a tour-guide mobile app with booking and payment flows
-- 💸 **Fintech:** an event-driven finance API with a Flutter frontend, run with Docker Compose
-- 🖥️ **Tools:** a Python/Django management server with dashboards, exams and reports
-- 📚 **Web:** a [digital library platform](https://github.com/mouazkh/IWB202), a [full-stack prototype](https://github.com/mouazkh/Proto) and [portfolio sites](https://github.com/mouazkh/Protfolioi)
-
-**🎯 Right now**
-- 🌱 Learning clean architecture, testing and CI/CD pipelines
-- 🔭 Shipping mobile apps people actually use
-- 💬 Ask me about Flutter, Android, REST APIs or Attack on Titan theories
+I'm a self-taught developer who builds mobile apps, websites and games, and plays with computer vision on the side. I've led a front-end team, shipped apps to Google Play and the App Store, and I'm studying at the Syrian Virtual University.
 
 <br clear="right"/>
+
+## 🏯 Experience
+
+| Role | Where | When |
+|---|---|---|
+| 👑 **Front-End Team Leader** | [TPS Company](https://www.tps-stations.com) | Apr 2025 – Nov 2025 |
+| 💻 **Front-End Developer** | [Hackera CyberSecurity](https://www.hackera.io) | Mar 2025 – Nov 2025 |
+| 🧑‍💻 **Freelance Web Developer** | Clients worldwide | 2023 – now |
+| 🏆 **Flutter Developer** | Syrian Startup Hackathon | 2025 |
+
+<details>
+<summary><b>📜 What I did there</b></summary>
+<br/>
+
+**TPS Company:** led the front-end team
+- 🌐 [TPS-Stations](https://www.tps-stations.com) and [REXNT](https://www.rexnt.com) websites (React + Vite)
+- 📱 **Trade Safe** mobile app (Flutter) and its admin and user dashboards (Next.js)
+- 🏠 **Sweet-Home** real-estate app (Flutter) and its web dashboards (Next.js)
+- 📊 Planned admin projects from scratch, including an accounting feasibility study and presentations
+
+**Hackera CyberSecurity**
+- 🛡️ Fully responsive [landing page](https://www.hackera.io)
+- 🤖 n8n chatbot automation for communication workflows
+
+**Freelance**
+- 🎨 Responsive websites built around each client's needs
+- 🗺️ **Alam app** (React Native): fixed bugs, improved the UX and published it to Google Play and the App Store
+
+**Syrian Startup Hackathon 2025**
+- ⏱️ Built and presented a Flutter app with my team under a tight deadline
+
+</details>
 
 ## ⚔️ Jutsu list (tech stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,flutter,dart,python,js,html,css,ruby&perline=10&theme=dark" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,react,nextjs,vite,vue,nodejs,js&perline=10&theme=dark" alt="mobile and web"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=sqlite,firebase,git,github,githubactions,vscode,idea,figma,linux,windows&perline=10&theme=dark" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,py,opencv,cs,cpp,unity,unreal,n8n,kali&perline=10&theme=dark" alt="ai, games and security"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,sqlite,firebase,docker,linux&perline=10&theme=dark" alt="tools"/>
 </div>
 
 ## 🗡️ Featured quests
 
 | Quest | What it does | Stack |
 |---|---|---|
-| 🩹 [**FirstAid-Hero**](https://github.com/mouazkh/FirstAid-Hero) | First-aid guide app with emergency steps, contacts and treated-case tracking | Java · Android · SQLite |
-| 🧪 [**Proto**](https://github.com/mouazkh/Proto) | Web prototype playground | JavaScript |
-| 🎨 [**Protfolioi**](https://github.com/mouazkh/Protfolioi) | Personal portfolio website | HTML · CSS |
+| 🧠 **Face Recognition** | Recognizes faces in real time and estimates age, gender, eye color and skin tone | Python · OpenCV · DeepFace |
+| 🖐️ **Gesture Mouse** | Control the mouse with hand gestures: left click, right click, screenshot | Python · OpenCV |
+| 👁️ **Object Recognition** | Detects and classifies objects live from a camera | Python · ML |
+| 🛒 [**E-Commerce App**](https://github.com/mouazkh/Flutter-E-Commernce) | 22-screen shopping app for Android | Flutter |
+| 🩹 [**FirstAid-Hero**](https://github.com/mouazkh/FirstAid-Hero) | First-aid guides, emergency contacts and case tracking, works offline | Java · Android · SQLite |
+| 📚 [**Book Store**](https://github.com/mouazkh/IWB202) | Online book store website | HTML · CSS · JS · Vue |
+| 🎮 **2D Platformer** | Player controls, enemy AI and level design | Unity · C# |
+| 🏔️ **3D Adventure** | Realistic world with interactive character movement | Unreal Engine 5 · C++ |
+| 🎬 **Star Wars Scene** | A film scene built in a game engine | Unreal Engine 5 |
+| 🦠 **Android Malware Analysis** | Analyzed APK files for malicious behavior | APKTool |
+
+## 🎓 Education & certificates
+
+- 🎓 **BSc Management Information Systems**, Syrian Virtual University (2022 – now)
+- 🎓 **Information Technology Engineering**, Syrian Virtual University (2025 – now)
+- 📜 Python for Data Science, AI & Development (Coursera)
+- 📜 Flutter Mobile App Development (UNRWA Damascus Intermediate Institute)
+- 📜 Android App Malware Analysis (Udemy)
 
 ## 📊 Chakra levels (stats)
 
