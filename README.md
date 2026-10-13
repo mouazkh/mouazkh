@@ -10,8 +10,7 @@
 <a href="https://github.com/mouazkh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=BB9AF7&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Mouaz+%F0%9F%91%8B;Android+%26+Flutter+Developer+%F0%9F%93%B1;Believe+it!+I+never+go+back+on+my+code+%F0%9F%8D%A5;git+commit+-m+%22plus+ultra%22+%F0%9F%92%A5;while(alive)+%7B+code();+watchAnime();+%7D" alt="Typing SVG"/></a>
 
 <p>
-  <img src="https://count.getloli.com/get/@mouazkh?theme=asoul" alt="visitor counter" title="Visitors who passed through Wall Maria"/>
-  <br/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=mouazkh&label=VISITORS&countColor=%23bb9af7&style=for-the-badge&labelColor=%231a1b27" alt="visitor counter" title="Visitors who passed through Wall Maria 🧱"/>
   <a href="https://github.com/mouazkh?tab=followers"><img src="https://img.shields.io/github/followers/mouazkh?label=FOLLOWERS&style=for-the-badge&color=7aa2f7&labelColor=1a1b27" alt="followers"/></a>
   <img src="https://img.shields.io/badge/POWER%20LEVEL-OVER%209000-ff4f8b?style=for-the-badge&labelColor=1a1b27" alt="power level" title="It's over 9000!!! (secret #2: hover found)"/>
 </p>
