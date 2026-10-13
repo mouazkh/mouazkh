@@ -22,7 +22,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#bb9af7
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#c89b3c
 
       - name: Push to output branch
         env:
