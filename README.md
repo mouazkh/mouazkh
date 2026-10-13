@@ -50,7 +50,7 @@ I'm a self-taught developer who builds mobile apps, websites and games, and play
 |---|---|---|
 | 👑 **Front-End Team Leader** | [TPS Company](https://www.tps-stations.com) | Apr 2025 – Nov 2025 |
 | 💻 **Front-End Developer** | [Hackera CyberSecurity](https://www.hackera.io) | Mar 2025 – Nov 2025 |
-| 🧑‍💻 **Freelance Web Developer** | Clients worldwide | 2023 – now |
+| 🧑‍💻 **Freelance Web Developer** | Self-employed | 2023 – now |
 | 🏆 **Flutter Developer** | Syrian Startup Hackathon | 2025 |
 
 <details>
