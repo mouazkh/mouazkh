@@ -5,17 +5,21 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=230&section=header&text=Mouaz%20Bashar%20Alkhatib&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%20%E2%80%A2%20Programmer%20%E2%80%A2%20Anime%20Enjoyer&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:010a13,50:0a323c,100:c89b3c&height=230&section=header&text=Mouaz%20Bashar%20Alkhatib&fontSize=46&fontColor=f0e6d2&fontAlignY=40&desc=Summoner%20%E2%80%A2%20Programmer%20%E2%80%A2%20Anime%20Enjoyer&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
-<a href="https://github.com/mouazkh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=BB9AF7&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Mouaz+%F0%9F%91%8B;Flutter+%7C+Web+%7C+Game+Developer+%F0%9F%93%B1%F0%9F%8E%AE;Front-End+Team+Leader+%F0%9F%91%91;ff15%3F+Never.+I+debug+till+the+Nexus+falls+%F0%9F%8E%AE;Believe+it!+I+never+go+back+on+my+code+%F0%9F%8D%A5;git+commit+-m+%22plus+ultra%22+%F0%9F%92%A5;while(alive)+%7B+code();+watchAnime();+%7D" alt="Typing SVG"/></a>
+<a href="https://github.com/mouazkh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=C89B3C&center=true&vCenter=true&width=650&lines=Welcome+to+Summoner's+Rift!+%E2%9A%94%EF%B8%8F;I'm+Mouaz%2C+main+role%3A+Full-Stack+Mid+%F0%9F%91%8B;Flutter+%7C+Web+%7C+Game+Developer+%F0%9F%93%B1%F0%9F%8E%AE;Front-End+Team+Leader+%F0%9F%91%91;ff15%3F+Never.+I+debug+till+the+Nexus+falls+%F0%9F%8F%B0;Believe+it!+I+never+go+back+on+my+code+%F0%9F%8D%A5;while(alive)+%7B+code();+watchAnime();+%7D" alt="Typing SVG"/></a>
 
 <p>
-  <img src="https://api.visitorbadge.io/api/visitors?path=mouazkh&label=VISITORS&countColor=%23bb9af7&style=for-the-badge&labelColor=%231a1b27" alt="visitor counter" title="Visitors who passed through Wall Maria 🧱"/>
-  <a href="https://github.com/mouazkh?tab=followers"><img src="https://img.shields.io/github/followers/mouazkh?label=FOLLOWERS&style=for-the-badge&color=7aa2f7&labelColor=1a1b27" alt="followers"/></a>
-  <img src="https://img.shields.io/badge/POWER%20LEVEL-OVER%209000-ff4f8b?style=for-the-badge&labelColor=1a1b27" alt="power level" title="It's over 9000!!! (secret #2: hover found)"/>
+  <img src="https://img.shields.io/badge/RANK-CHALLENGER%20CODER-c89b3c?style=for-the-badge&labelColor=010a13" alt="rank" title="Hard stuck Challenger. Can't climb higher, there's nothing above."/>
+  <img src="https://img.shields.io/badge/MAIN-MID%20%E2%80%A2%20FULL%20STACK-0ac8b9?style=for-the-badge&labelColor=010a13" alt="main role"/>
+  <img src="https://img.shields.io/badge/MASTERY%207-FLUTTER-0397ab?style=for-the-badge&labelColor=010a13" alt="mastery"/>
+  <br/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=mouazkh&label=SUMMONERS%20VISITED&countColor=%23c89b3c&style=for-the-badge&labelColor=%23010a13" alt="visitor counter" title="Visitors who passed through Wall Maria 🧱"/>
+  <a href="https://github.com/mouazkh?tab=followers"><img src="https://img.shields.io/github/followers/mouazkh?label=DUO%20PARTNERS&style=for-the-badge&color=0ac8b9&labelColor=010a13" alt="followers"/></a>
+  <img src="https://img.shields.io/badge/WIN%20RATE-99%25-ff4f4f?style=for-the-badge&labelColor=010a13" alt="win rate" title="The other 1% was CSS centering. (secret #2: hover found)"/>
 </p>
 
-<img src="https://media.giphy.com/media/3ov9jIYPU7NMT6TS7K/giphy.gif" width="230" alt="anime hello"/>
+<img src="https://media.giphy.com/media/PM7EBVwNHRuXYKIsJf/giphy.gif" width="320" alt="Jinx dancing"/>
 
 </div>
 
@@ -138,13 +142,15 @@ I'm a self-taught developer who builds mobile apps, websites and games, and play
 
 <br clear="right"/>
 
-## 📊 Chakra levels (stats)
+## 🏆 Summoner profile (stats)
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mouazkh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouazkh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+  <img width="300" src="https://media.giphy.com/media/tM76xlB5idOYRwB0wR/giphy.gif" alt="Victory"/>
+  <br/><br/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mouazkh&show_icons=true&count_private=true&rank_icon=github&custom_title=Summoner%20Stats%20%E2%9A%94%EF%B8%8F&bg_color=010a13&title_color=c89b3c&icon_color=0ac8b9&text_color=f0e6d2&border_color=c89b3c&ring_color=c89b3c" alt="stats"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouazkh&layout=compact&langs_count=8&custom_title=Champion%20Pool%20%F0%9F%8F%85&bg_color=010a13&title_color=c89b3c&icon_color=0ac8b9&text_color=f0e6d2&border_color=c89b3c&ring_color=c89b3c" alt="champion pool"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=mouazkh&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=mouazkh&background=010A13&border=C89B3C&stroke=C89B3C&ring=C89B3C&fire=FF4F4F&currStreakNum=F0E6D2&sideNums=F0E6D2&currStreakLabel=C89B3C&sideLabels=0AC8B9&dates=A09B8C&currStreakLabel=C89B3C" alt="win streak"/>
 </div>
 
 ## 🐍 The snake eats my commits
