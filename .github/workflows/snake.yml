@@ -25,11 +25,11 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#bb9af7
 
       - name: Push to output branch
-        working-directory: dist
         env:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
         run: |
+          mkdir out && cp dist/* out/ && cd out
           git init -q -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
